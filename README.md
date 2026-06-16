@@ -1,4 +1,4 @@
-# This-Is-For-The-Soul-tarot-booking-site(https://github.com/user-attachments/files/29007718/TIFTS.html)
+# This-Is-For-The-Soul-Tarot-Readings(https://github.com/user-attachments/files/29007718/TIFTS.html)
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
